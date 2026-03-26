@@ -1,0 +1,14 @@
+RAG Demo Sample Document
+
+Company: ExampleCorp
+Policy: Remote Work
+
+1) Employees may work remotely up to 3 days per week.
+2) Working hours are 10:00 AM–6:00 PM IST.
+3) All work devices must use disk encryption.
+4) VPN is required when accessing internal tools from public networks.
+
+FAQ
+Q: Is weekend work mandatory?
+A: No. Weekend work is optional and must be approved by the manager.
+
