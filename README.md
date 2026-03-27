@@ -7,7 +7,7 @@ A portfolio-ready **Retrieval-Augmented Generation (RAG)** app built with **Pyth
 ```mermaid
 flowchart LR
   U[User] --> Q[Query]
-  Q --> QR[Query Rewriting (LLM)]
+  Q --> QR["Query Rewriting (LLM)"]
   QR --> R[Hybrid Retrieval]
   R --> V[Vector Search (Chroma)]
   R --> K[Keyword Search (BM25)]
